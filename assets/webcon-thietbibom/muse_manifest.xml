@@ -1,0 +1,75 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bom1.com" resolutions="1x" timestamp="1661579679636">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="1-08-logo.css" crc="6306216" ref="1-08-logo"/>
+    <file name="1-03-thangdau.css" crc="2152845" ref="1-03-thangdau"/>
+    <file name="1-02-thanbom.css" crc="3991357541" ref="1-02-thanbom"/>
+    <file name="1-06-linhvuc-ungdung.css" crc="413211109" ref="1-06-linhvuc-ungdung"/>
+    <file name="1-03-canhbom.css" crc="4199360165" ref="1-03-canhbom"/>
+    <file name="1-03-motor.css" crc="3808384575" ref="1-03-motor"/>
+    <file name="1-02-daycapdien.css" crc="472558989" ref="1-02-daycapdien"/>
+    <file name="index.css" crc="496700971" ref="index"/>
+    <file name="1-05-thongsokythuat.css" crc="167192462" ref="1-05-thongsokythuat"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1-02-daycapdien:1-02-thanbom:1-03-canhbom:1-03-motor:1-03-thangdau:1-06-linhvuc-ungdung:1-08-logo:1-05-thongsokythuat"/>
+    <file name="museutils.js" crc="340535759" ref="index:1-02-daycapdien:1-02-thanbom:1-03-canhbom:1-03-motor:1-03-thangdau:1-06-linhvuc-ungdung:1-08-logo:1-05-thongsokythuat"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1-02-daycapdien:1-02-thanbom:1-03-canhbom:1-03-motor:1-03-thangdau:1-06-linhvuc-ungdung:1-08-logo:1-05-thongsokythuat"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:1-02-daycapdien:1-02-thanbom:1-03-canhbom:1-03-motor:1-03-thangdau:1-06-linhvuc-ungdung:1-08-logo:1-05-thongsokythuat"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:1-02-daycapdien:1-02-thanbom:1-03-canhbom:1-03-motor:1-03-thangdau:1-06-linhvuc-ungdung:1-08-logo:1-05-thongsokythuat"/>
+    <file name="require.js" crc="7928878" ref="index:1-02-daycapdien:1-02-thanbom:1-03-canhbom:1-03-motor:1-03-thangdau:1-06-linhvuc-ungdung:1-08-logo:1-05-thongsokythuat"/>
+  </folder>
+  <folder name="images">
+    <file name="1-02-buongbom.jpg" crc="4026736783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-02-daycapdien.jpg" crc="3976166335" seo="true" ref="1-02-daycapdien">
+      <caption webpage="1-02-daycapdien" alt=""/>
+    </file>
+    <file name="1-02-thanbom.jpg" crc="431538568" seo="true" ref="1-02-thanbom">
+      <caption webpage="1-02-thanbom" alt=""/>
+    </file>
+    <file name="1-03-canhbom1.jpg" crc="487977593" seo="true" ref="1-03-canhbom">
+      <caption webpage="1-03-canhbom" alt=""/>
+    </file>
+    <file name="1-03-canhbom2.jpg" crc="452788867" seo="true" ref="1-03-canhbom">
+      <caption webpage="1-03-canhbom" alt=""/>
+    </file>
+    <file name="1-03-motor1.jpg" crc="247770197" seo="true" ref="1-03-motor">
+      <caption webpage="1-03-motor" alt=""/>
+    </file>
+    <file name="1-03-motor2.jpg" crc="384228634" seo="true" ref="1-03-motor">
+      <caption webpage="1-03-motor" alt=""/>
+    </file>
+    <file name="1-03-thangdau1.jpg" crc="309746371" seo="true" ref="1-03-thangdau">
+      <caption webpage="1-03-thangdau" alt=""/>
+    </file>
+    <file name="1-03-thangdau2.jpg" crc="4186310087" seo="true" ref="1-03-thangdau">
+      <caption webpage="1-03-thangdau" alt=""/>
+    </file>
+    <file name="1-06-ungdung1.jpg" crc="403035377" seo="true" ref="1-06-linhvuc-ungdung">
+      <caption webpage="1-06-linhvuc-ungdung" alt=""/>
+    </file>
+    <file name="1-06-ungdung2.jpg" crc="165599752" seo="true" ref="1-06-linhvuc-ungdung">
+      <caption webpage="1-06-linhvuc-ungdung" alt=""/>
+    </file>
+    <file name="1-06-ungdung3.jpg" crc="528214413" seo="true" ref="1-06-linhvuc-ungdung">
+      <caption webpage="1-06-linhvuc-ungdung" alt=""/>
+    </file>
+    <file name="1-05-thongsokythuat.jpg" crc="166930235" seo="true" ref="1-05-thongsokythuat">
+      <caption webpage="1-05-thongsokythuat" alt=""/>
+    </file>
+    <file name="1-05-anhieusuat.jpg" crc="4123122031" seo="true" ref="1-05-thongsokythuat">
+      <caption webpage="1-05-thongsokythuat" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="109153980" seo="true" mt="1661413016791" redirect="true"/>
+  <file name="1-02-daycapdien.html" crc="244604509" seo="true" mt="1661413855673" redirect="true"/>
+  <file name="1-02-thanbom.html" crc="3776666154" seo="true" mt="1661413861281" redirect="true"/>
+  <file name="1-03-canhbom.html" crc="462407257" seo="true" mt="1661414124784" redirect="true"/>
+  <file name="1-03-motor.html" crc="4078560558" seo="true" mt="1661421092259" redirect="true"/>
+  <file name="1-03-thangdau.html" crc="3932089563" seo="true" mt="1661421239780" redirect="true"/>
+  <file name="1-06-linhvuc-ungdung.html" crc="3936639553" seo="true" mt="1661421724219" redirect="true"/>
+  <file name="1-08-logo.html" crc="383473449" seo="true" mt="1661422030119" redirect="true"/>
+  <file name="1-05-thongsokythuat.html" crc="4114897418" seo="true" mt="1661579572594" redirect="true"/>
+</manifest>
